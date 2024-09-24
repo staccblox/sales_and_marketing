@@ -1,1 +1,1 @@
-main = putStrLn "together generate revenue and lead generation."
+main = putStrLn "work together to generate revenue & leads."
